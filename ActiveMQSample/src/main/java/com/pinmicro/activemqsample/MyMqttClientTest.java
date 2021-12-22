@@ -8,7 +8,7 @@ import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttMessage;
 /**
  *
- * @author joshy
+ * @author Deepak
  */
 public class MyMqttClientTest implements MqttCallbackExtended {
    // private static final  Logger LOGGER = LoggerFactory.getLogger(MyMqttClientTest.class);
