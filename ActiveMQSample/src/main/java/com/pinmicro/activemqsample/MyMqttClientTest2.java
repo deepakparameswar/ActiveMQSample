@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  *
- * @author joshy
+ * @author Deepak
  */
 public class MyMqttClientTest2 implements MqttCallbackExtended {
     private static final  Logger LOGGER = LoggerFactory.getLogger(MyMqttClientTest2.class);
